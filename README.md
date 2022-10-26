@@ -1,1 +1,1 @@
-# SQL Project on Resturant and Sales dataset.
+# SQL Projects (Query Based)
